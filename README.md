@@ -4,16 +4,17 @@ Desarrolladora Web con enfoque en **Laravel** y tecnologías modernas para const
 
 ![Banner](/images/BannerMARP.png)
 
-<!-- Shields de tecnologías -->
-![Laravel](https://img.shields.io/badge/Laravel-EF2D36?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- Tecnologías -->
+![Laravel](https://img.shields.io/badge/Laravel-EF2D36?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<!-- Shields de contacto -->
-![Email](https://img.shields.io/badge/Email-al222110768@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-MitziAlondra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-mitziportfolio.com-4AB197?style=for-the-badge&logo=google-chrome&logoColor=white)
+<!-- Contacto -->
+![Email](https://img.shields.io/badge/Email-al222110768@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-MitziAlondra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-mitziportfolio.com-4AB197?style=flat-square&logo=google-chrome&logoColor=white)
+
 
 ## 🚀 Sobre mí
 
