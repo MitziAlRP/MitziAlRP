@@ -52,7 +52,7 @@ Desarrolladora Web con enfoque en **Laravel** y tecnologías modernas para const
 
 * 📧 Email: [al222110768@gmail.com](mailto:al222110768@gmail.com)
 * 🌐 Portafolio: [https://mitziportfolio.com](https://mitziportfolio.com)
-* 💼 LinkedIn: [https://linkedin.com/in/mitzialondra](https://linkedin.com/in/mitzialondra)
+* 💼 LinkedIn: [https://mx.linkedin.com/in/mitzi-alondra-ramirez-porcayo-b1427a3b7](https://mx.linkedin.com/in/mitzi-alondra-ramirez-porcayo-b1427a3b7)
 
 ---
 
